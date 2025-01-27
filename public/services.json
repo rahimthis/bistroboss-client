@@ -1,0 +1,23 @@
+[
+    {
+        "_id": "1",
+        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/07/pizza-9.jpg",
+        "price": 15,
+        "name": "Pizza Margherita",
+        "recipi": "Mushrooms, Pepperoni,  Mozzarella, Tomato, Salami, Olive"
+    },
+    {
+        "_id": "2",
+        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-5-370x247.jpg",
+        "price": 30,
+        "name": "Caeser Salad",
+        "recipi": "Lettuce, Eggs, Parmesan Cheese, Chicken Breast Fillets."
+    },
+    {
+        "_id": "3",
+        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/07/new-product-2-370x247.jpg",
+        "price": 25,
+        "name": "Greek Salad",
+        "recipi": "Tomatoes, Cucumber, Onion, Olives, Feta, Oregano, Romaine Lettuce."
+    }
+]
