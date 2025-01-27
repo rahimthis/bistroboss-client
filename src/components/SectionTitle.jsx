@@ -10,4 +10,5 @@ const SectionTitle = ({title, secandTitle}) => {
 };
 
 
+
 export default SectionTitle;
